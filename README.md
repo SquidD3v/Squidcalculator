@@ -1,0 +1,2 @@
+# Squidcalculator
+ilk proje
